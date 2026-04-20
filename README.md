@@ -13,4 +13,4 @@ The dataset contains transactional data of mobile sales, including:
 - Date details (Day, Month, Year)
 
 Dataset Link:  
-
+https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20Sales%20Dataset.xlsx
