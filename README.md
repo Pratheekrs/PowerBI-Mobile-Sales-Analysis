@@ -1,2 +1,16 @@
-# PowerBI-Mobile-Sales-Analysis
-Power BI dashboard project analyzing mobile sales, customer behavior, and transaction trends using interactive visuals.
+# Mobile Sales & Customer Analysis Dashboard (Power BI)
+
+This project is a Power BI dashboard created to analyze mobile sales data, customer behavior, and transaction trends across different cities and brands.
+
+## Dataset
+The dataset contains transactional data of mobile sales, including:
+
+- Mobile Brands (Apple, Samsung, Vivo, Xiaomi, etc.)
+- Units Sold and Price Per Unit
+- Customer Name, Age, and Ratings
+- City-wise sales information
+- Payment Methods (UPI, Credit Card, Debit Card, Cash)
+- Date details (Day, Month, Year)
+
+Dataset Link:  
+
