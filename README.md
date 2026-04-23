@@ -14,3 +14,42 @@ The dataset contains transactional data of mobile sales, including:
 
 Dataset Link:  
 https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20Sales%20Dataset.xlsx
+
+##  Dashboard Preview
+![Dashboard](dashboard.png)
+
+## 📊 Key KPIs
+- Total Sales: 68M
+- Total Quantity: 2K
+- Total Transactions: 331
+- Average Sales: 41K
+
+---
+
+##  Insights
+- Apple and OnePlus generated the highest revenue
+- Most transactions were made using Credit Card and UPI
+- Sales were higher in major cities like Delhi and Mumbai
+- Peak sales observed during mid-month period
+- Weekends showed slightly lower sales compared to weekdays
+
+---
+
+## 🛠 Tools Used
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Cleaning (Power Query: Add Column, Custom Column)
+
+---
+
+## 🚀 Features
+- Interactive filters (Month, Brand, Payment Method)
+- Sales analysis by City and Day
+- Customer rating insights
+- Payment method distribution
+- Brand-wise performance comparison
+
+---
+
+## 📌 Conclusion
+This dashboard helps in understanding sales patterns, customer preferences, and business performance. It provides actionable insights that can support better decision-making and strategy planning.
