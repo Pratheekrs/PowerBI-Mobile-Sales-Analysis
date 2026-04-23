@@ -24,8 +24,6 @@ https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20S
 - Total Transactions: 331
 - Average Sales: 41K
 
----
-
 ##  Insights
 - Apple and OnePlus generated the highest revenue
 - Most transactions were made using Credit Card and UPI
@@ -33,23 +31,17 @@ https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20S
 - Peak sales observed during mid-month period
 - Weekends showed slightly lower sales compared to weekdays
 
----
-
-## 🛠 Tools Used
+## Tools Used
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Cleaning (Power Query: Add Column, Custom Column)
 
----
-
-## 🚀 Features
+## Features
 - Interactive filters (Month, Brand, Payment Method)
 - Sales analysis by City and Day
 - Customer rating insights
 - Payment method distribution
 - Brand-wise performance comparison
 
----
-
-## 📌 Conclusion
+## Conclusion
 This dashboard helps in understanding sales patterns, customer preferences, and business performance. It provides actionable insights that can support better decision-making and strategy planning.
