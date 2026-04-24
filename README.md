@@ -2,6 +2,9 @@
 
 This project is a Power BI dashboard created to analyze mobile sales data, customer behavior, and transaction trends across different cities and brands.
 
+## Objective
+To analyze sales data and uncover key insights related to revenue, customer preferences, and product performance using data visualization techniques.
+
 ## Dataset
 The dataset contains transactional data of mobile sales, including:
 
@@ -24,6 +27,13 @@ https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20S
 - Total Transactions: 331
 - Average Sales: 41K
 
+## Analysis Performed
+- Sales distribution across cities and brands  
+- Customer purchasing patterns and preferences  
+- Payment method usage analysis  
+- Time-based trend analysis (daily and monthly)  
+- Customer rating evaluation  
+
 ##  Insights
 - Apple and OnePlus generated the highest revenue
 - Most transactions were made using Credit Card and UPI
@@ -42,6 +52,13 @@ https://github.com/Pratheekrs/PowerBI-Mobile-Sales-Analysis/blob/main/Mobile%20S
 - Customer rating insights
 - Payment method distribution
 - Brand-wise performance comparison
+
+## Skills Demonstrated
+- Data Cleaning & Transformation  
+- Data Visualization & Dashboard Design  
+- Business Insight Generation  
+- KPI Reporting & Analysis  
+- Use of DAX for calculated measures  
 
 ## Conclusion
 This dashboard helps in understanding sales patterns, customer preferences, and business performance. It provides actionable insights that can support better decision-making and strategy planning.
